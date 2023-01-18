@@ -4,4 +4,4 @@ SOURCES += \
 
 INCLUDEPATH += \
     $$PWD/src \
-    $$PWD/xkbcommon
+    $$PWD
